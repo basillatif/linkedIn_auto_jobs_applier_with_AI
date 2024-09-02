@@ -4,12 +4,12 @@ personal_information:
   date_of_birth: "06/06/1992"
   country: "USA"
   city: "Los Angeles"
-  address: "[Your Address]"
-  phone_prefix: "[Your Phone Prefix]"
-  phone: "[Your Phone Number]"
+  address: "5536 Lindley Ave Encino CA 91316"
+  phone_prefix: "+1"
+  phone: "480-521-3659"
   email: "basillatif@gmail.com"
-  github: "[Your GitHub Profile URL]"
-  linkedin: "[Your LinkedIn Profile URL]"
+  github: "https://github.com/basillatif"
+  linkedin: "https://www.linkedin.com/in/basil-latif/"
 
 education_details:
   - degree: "M.S"
@@ -57,10 +57,8 @@ certifications:
   - "[Certification Name]"
 
 languages:
-  - language: "[Language Name]"
-    proficiency: "[Proficiency Level]"
-  - language: "[Language Name]"
-    proficiency: "[Proficiency Level]"
+  - language: "English"
+    proficiency: "Fluent"
 
 interests:
   - "[Interest 1]"
@@ -70,32 +68,32 @@ interests:
   - "[Interest 5]"
 
 availability:
-  notice_period: "[Notice Period]"
+  notice_period: "Available"
 
 salary_expectations:
-  salary_range_usd: "[Expected Salary Range in USD]"
+  salary_range_usd: "$150,000"
 
 self_identification:
-  gender: "[Gender]"
-  pronouns: "[Pronouns]"
-  veteran: "[Veteran Status]"
-  disability: "[Disability Status]"
-  ethnicity: "[Ethnicity]"
+  gender: "Male"
+  pronouns: "he/him"
+  veteran: "Not a veteran"
+  disability: "No disability"
+  ethnicity: "Southeast Asian"
 
 legal_authorization:
-  eu_work_authorization: "[Yes/No]"
-  us_work_authorization: "[Yes/No]"
-  requires_us_visa: "[Yes/No]"
-  requires_us_sponsorship: "[Yes/No]"
-  requires_eu_visa: "[Yes/No]"
-  legally_allowed_to_work_in_eu: "[Yes/No]"
-  legally_allowed_to_work_in_us: "[Yes/No]"
-  requires_eu_sponsorship: "[Yes/No]"
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "No"
+  requires_eu_visa: "No"
+  legally_allowed_to_work_in_eu: "Yes"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "No"
 
 work_preferences:
-  remote_work: "[Yes/No]"
-  in_person_work: "[Yes/No]"
-  open_to_relocation: "[Yes/No]"
-  willing_to_complete_assessments: "[Yes/No]"
-  willing_to_undergo_drug_tests: "[Yes/No]"
-  willing_to_undergo_background_checks: "[Yes/No]"
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "No"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
